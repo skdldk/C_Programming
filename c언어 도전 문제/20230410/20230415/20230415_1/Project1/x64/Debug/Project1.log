@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\미래모빌리티\KIM Seung Jun\20230415\Project1\Project1\main.cpp(6,11): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  Project1.vcxproj -> C:\미래모빌리티\KIM Seung Jun\20230415\Project1\x64\Debug\Project1.exe
